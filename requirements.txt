@@ -1,0 +1,4 @@
+gradio
+torch
+pandas
+sentence-transformers
